@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+shots/
+build/
+third_party/
+.uv/
+.DS_Store
+*.vcd
+.ruff_cache/
+.mypy_cache/
